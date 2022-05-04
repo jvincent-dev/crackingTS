@@ -1,0 +1,13 @@
+{
+  "name": "ctci-ts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "created": 1645947065000,
+  "scripts": {
+    "start": "tsc && node ./lib/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
